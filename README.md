@@ -1,4 +1,18 @@
 # SoftwareArchitectureCLassApplication
+
+
+REQUIREMENTS:
+
+
+    (REQUIRED) Run on Unix and Windows (build and compile)
+    (REQUIRED) Implement 2 unit tests that use Googletest, and ensure they can run on windows as well as Unix
+    (DESIRED) Do not lose functionality for the other tasks 
+    (DESIRED) Get successful header file exports
+    (DESIRED) Be available to build and debug on Linux as well on Windows using project configuration files (cmake, sln, vcxproj, etc)
+    (DESIRED) It is still necessary to use Windows to run the product.
+
+
+
 This is sandbox code to show proof of concept usages of some principles taught in University of Cincinnati's Software Architecture Class.
 
 This code base will be used for several assignments, but it's value comes from having several libraries in play, as well as some example usages of concepts of singletons, static initializers, journaling, and automation APIs
