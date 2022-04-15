@@ -15,3 +15,5 @@ REQUIREMENTS:
 
 
 [Design Document](DesignDocument.md)
+
+[Unit Tests for AutomationBinding API](AutomationAPI-Test)
