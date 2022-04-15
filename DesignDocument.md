@@ -27,5 +27,5 @@ Method 1:
 Method 2:
 1. Design the project in windows system and save it as a vcx project file;
 2. Use CMake to package the vcx project file;
-3. Transform the vcx project file into an appropriate file format in Unix system.(By Ubuntu????)
+3. Transform the vcx project file into an appropriate file format in Unix system using the cmake converter. 
 Execution flow: vcx project file -> cmake -> unix project file
