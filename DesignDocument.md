@@ -1,4 +1,5 @@
 How to run the project on Windows:
+<br>
 Method 1: Use command to open
 1.Syntax:
   File.OpenProject filename
@@ -10,12 +11,14 @@ Method 1: Use command to open
 
 >File.OpenProject "C:\My Projects\Test1\Test1.vbproj"
   
-How to run the project on Unix:
+How to run the project on Unix: 
+<br>
 Method 1:
 1. Select the Alt-F2 to open the Run Command box;
 2. Type the name of the program you want to run
 
 How to run Windows program in Unix:
+<br>
 Method 1:
 1. Install Wine on Ubuntu Linux.
 2. Configure Wine on Ubuntu Linux.
