@@ -1,13 +1,15 @@
 How to run the project on Windows:
 <br>
-Method 1: Use command to open
-1.Syntax:
+Method 1: 
+<br>
+Use command to open
+1. Syntax:
   File.OpenProject filename
-2.Arguments
+2. Arguments
   The full path and file name of the project or solution to open is required.
-3.Remarks
+3. Remarks
   Auto-completion tries to locate the correct path and file name as you type.
-4.Example
+4. Example
 
 >File.OpenProject "C:\My Projects\Test1\Test1.vbproj"
   
