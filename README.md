@@ -22,7 +22,7 @@ Final project for Software Architecture. The goal is to make the application cro
 [Unit Tests for AutomationBinding API](AutomationAPI-Test)
 
 ### Implementation
-[CMakeSettings.json (Proof of the Linux-Debug and x64-Debug configurations)](SoftwareArchitectureCLassApplication\packages\boost.1.78.0\lib\native\include\boost\safe_numerics\CMakeSettings.json)
+[CMakeSettings.json (Proof of the Linux-Debug and x64-Debug configurations)](packages/boost.1.78.0/lib/native/include/boost/safe_numerics/CMakeSettings.json)
 #### Unix
 To run on a Unix machine, select the "Linux-Debug" configuration and then follow the prompts to remote into a Unix machine.
 
