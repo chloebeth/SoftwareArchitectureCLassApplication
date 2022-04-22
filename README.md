@@ -17,3 +17,11 @@ REQUIREMENTS:
 [Design Document](DesignDocument.md)
 
 [Unit Tests for AutomationBinding API](AutomationAPI-Test)
+
+### Implementation
+#### Unix
+
+#### Windows
+
+### Conclusions
+Our group successfully completed all requirements. The program successfully builds and compiles on Unix and Windows and the Unit Tests run on Windows and Unix. We give our permission for you to add our work to the GitHub project. A potential extension for the functionality is to implement the desired requirements. Specifically the header file exports.
