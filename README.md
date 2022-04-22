@@ -2,7 +2,10 @@
 
 ## Task 2: Build on Linux and Windows
 
-REQUIREMENTS:
+### Introduction
+Final project for Software Architecture. The goal is to make the application cross-compatible on Unix and Windows. 
+
+### Requirements:
 
 
     (REQUIRED) Run on Unix and Windows (build and compile)
